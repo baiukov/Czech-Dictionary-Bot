@@ -1,0 +1,109 @@
+Ovoce (N) – Фрукты
+Banán (M) – Банан
+Ananas (M) – Ананас
+Pomeranč (M) – Апельсин
+Grep (M) – Грейпфрут
+Rybíz (M) –Смородина
+Hruška (F) – Груша
+Švestka(F) – Слива
+Borůvka(F) – Черника
+Jahoda (F) – Клубника
+Malina (F) – Малина
+Broskev (F) – Персик
+Meruňka (F) – Абрикос
+Třešeň (F) – Черешня
+Višeň (F) – Вишня
+Nektarinka (F) – Нектарин
+Mandarinka (F) – Мандарин
+Jablko (N) – Яблоко
+Hroznové víno (N) – Виноград
+Kiwi (N) – Киви
+Citron (M) – Лимон
+Zelenina (F) – Овощи
+Brambor (M) – Картошка
+Pórek (M) –Лук-порей
+Špenát (M) – Шпинат
+Květák (M) – Цветная капуста
+Lilek (M) – Баклажан
+Celer (M) – Сельдерей
+Česnek (M) – Чеснок
+Kedluben (M) –Брюква
+Řepa (F) –Репа
+Mrkev (F) – Морковь
+Petržel (F) – Петрушка
+Cibule (F) – Лук
+Kapusta (F) – Савойская капуста
+Kukuřice (F) –Кукуруза
+Okurka (F) – Огурец
+Brokolice (F) – Брокколи
+Dýně (F) – Тыква, дыня
+Cuketa (F) – Цукини
+Paprika (F) – Cладкий перeц
+Zelí (N) – Капуста
+Rajče (N) – Помидор
+Hrách (M) – Горох
+Čočka (F) – Чечевица
+Fazole (F) – Фасоль
+Mléčné výrobky (M) – Молочные продукты
+Kefír (M) – Кефир
+Jogurt (M) – Йогурт
+Sýr (M) – Сыр
+Tvaroh (M) – Творог
+Smetana (F) – Сметана
+Šlehačka (F) – Взбитые сливки
+Mléko (N) – Молоко
+Máslo (N) – Масло (сливочное)
+Pečivo (N) – Хлебобулочные изделия
+Chléb (M) – Хлеб
+Rohlík (M) – Рогалик
+Koláč (M) – Пирог
+Mouka (F) – Мука
+Houska (F) – Булка
+Bageta (F) – Багет
+Kobliha (F) – Пончик
+Vánočka (F) – Рождественская плетёнка
+Buchta (F) – Пирог
+Zvíře (N) – Животное
+Býk (M) –Бык
+Kůň (M) –Конь
+Kráva (F) –Корова
+Slepice (F) –Курица
+Krůta (F) –Индейка
+Husa (F) –Гусь
+Kachna (F) –Утка
+Ryba (F) –Рыба
+Tele (N) –Теленок
+Prase (N) –Свинья
+Kuře (N) –Цыплёнок
+Maso (N) – Мясо
+Hovězí – Говядина
+Koňské –Конина
+Slepičí–Куриный
+Kuřecí – Цыплячий
+Krůtí – Индюшачий
+Husí –Гусиный
+Kachní – Утиный
+Rybí –Рыбный
+Telecí – Телятина
+Vepřové – Свинина
+Uzenina (F) –Колбасное изделие
+Párek (M) – Сосиска
+Špekáček (M) –Сарделька
+Šunka (F) – Ветчина
+Klobása (F) –Колбаса
+Paštika (F) –Паштет
+Nápoj (M) – Напиток
+Čaj (M) – Чай
+Džus (M) – Сок
+Káva (F) – Кофе
+Minerální voda (F) – Минеральная вода
+Perlivá, neperlivá (F) –Газированная, безгаза
+Rýže (F) –Рис
+Pohanka(F) –Гречка
+Krupička(F) –Манка
+Těstovina/y(F) – Макаронные изделия, паста
+Špagety (F) – Спагетти
+Olej (M) – Масло(растительное)
+Nanuk (M) – Эскимо
+Zmrzlina (F) – Мороженое
+Vejce (N) – Яйцо

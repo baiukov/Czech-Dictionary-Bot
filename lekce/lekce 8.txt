@@ -1,0 +1,44 @@
+Člověk, lidé (M) – Человек, люди
+Otec, tatínek (M) – Отец, папа
+Matka, maminka (F) – Мать, мама
+Bratr (M) – Брат
+Sestra (F) – Сестра
+Dědeček (M) – Дедушка
+Babička (F) – Бабушка
+Strýc (M) – Дядя
+Teta (F) – Тётя
+Bratranec (M) – Двоюродный брат
+Sestřenice (F) – Двоюродная сестра
+Synovec (M) – Племянник
+Neteř (F) – Племянница
+Syn (M) – Сын
+Dcera (F) – Дочь
+Vnuk (M) – Внук
+Vnučka (F) – Внучка
+Přítel (M) – Приятель, партнер
+Přítelkyně (F) – Приятельница, партнер
+Ženich (M) – Жених
+Nevěsta (F) – Невеста
+Manžel (M) – Муж
+Manželka (F) – Жена
+Tchán (M) – Тесть/свёкор
+Tchýně (F) – Свекровь
+Švagr (M) – Шурин/деверь
+Švagrová (F) – Золовка/свояченица
+Zeť (M) – Зять
+Snacha (F) – Сноха
+Nevlastní otec (M) – Отчим
+Nevlastní matka (F) – Мачеха
+Důchodce (M) – Пенсионер
+Důchodkyně (F) – Пенсионерка
+Soused (M)– Сосед
+Sousedka (F) – Соседка
+Sourozenec (M) – Родной (брат, сестра)
+Jedináček (M) – Единственный ребенок
+Ženatý – Женатый
+Vdaná – Замужем
+Svobodný – Холостой
+Svatba (F) – Свадьба
+Přátelé – Приятели
+Rodiče – Родители
+Zásnuby – Обручение

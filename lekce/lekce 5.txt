@@ -1,0 +1,99 @@
+Okolí (N) – Окрестность
+Město (N) – Город
+Vesnice (F), venkov (M) – Деревня
+Čtvrť (F) – Район
+Náměstí (N) – Площадь
+Sídliště (N) – Жилой квартал
+Park (M) – Парк
+Statek (M) – Хозяйство
+Most (M) – Мост
+Ulice (F) – Улица
+Hrad (M) – Замок 14
+Zámek (M) – Замок 16
+Řeka (F) – Река
+Potok (M) – Ручей
+Jezero (N) – Озеро
+Rybník (M) – Пруд
+Přehrada (F) – Плотина
+Les (M) – Лес
+Louka (F) – Луг
+Socha (F) – Статуя
+Lavička (F) – Скамейка
+Kašna, fontána (F) – Фонтан
+Chodník (M) – Тротуар
+Podchod (M) – Подземный переход
+Kruhový objezd (M) – Круговой перекрёсток
+Památka (F) – Достопримечательность
+Infocentrum (N) – Информационный центр
+Policejní stanice (F) – Полицейский участок
+Hasiči – Пожарники
+Letiště (N) – Аэропорт
+Parkoviště (N) – Автостоянка
+Trafika (F) – Табачная лавка
+Pěší zóna (F) – Пешеходная зона
+Zoologická zahrada (F) – Зоопарк
+Obchodní centrum (N) – Торговый центр
+Pošta (F) – Почта
+Banka (F) – Банк
+Nemocnice (F) – Больница
+Škola (F) – Школа
+Školka (F) – Детский сад
+Radnice (F) – Ратуша
+Knihovna (F) – Библиотека
+Obchod (M) – Магазин
+Cukrárna (F) – Кондитерская
+Kavárna (F) – Кафе, кофейня
+Květinářství (N), květiny – Цветочный магазин, цветы
+Potraviny – Продуктовый магазин
+Řeznictví (N) – Мясная лавка
+Drogerie (F) – Хозяйственный магазин
+Obuv (F) – Магазин обуви
+Papírnictví (N) – Канцтовары
+Knihkupectví (N) – Книжный магазин
+Nádraží (N) – Вокзал
+Galerie (F) – Галерея
+Zastávka (F) – Остановка
+Stanice (F) – Станция
+Koupaliště (N) – Уличный бассейн
+Sportovní hala (F) – Спортзал
+Posilovna (F) – Тренажёрный зал
+Pokladna, kasa (F) – Касса
+Památník (M) – Памятник
+Hřbitov (M) – Кладбище
+Divadlo (N) – Театр
+Kino (N) – Кино
+Restaurace (F) – Ресторан
+Bar (M) – Бар
+Úřad (M) – Учреждение, орган
+Lékárna (F) – Аптека
+Pojišťovna (F) – Страховая компания
+Bankomat (M) – Банкомат
+Hotel (M) – Отель
+Hostel (M) – Хостел
+Čistírna (F) – Химчистка
+Ubytovna (F) – Общежитие
+Půjčovna (F) – Прокатный пункт
+Benzínová pumpa (F) – Бензоколонка
+Vlak (M) – Поезд
+Autobus (M) – Автобус
+Trolejbus (M) – Троллейбус
+Taxík (M) – Такси
+Motocykl (M) – Мотоцикл
+Tramvaj (F) – Трамвай
+Metro (N) – Метро
+Kolo (N) – Велосипед
+Auto (N) – Машина
+Pád – Падеж
+Podstatné jméno – Имя существиельное
+Přídavné jméno – Имя прилагательное
+Zájmeno – Местоимение
+Číslovka – Имя числительное
+Sloveso – Глагол
+Příslovce – Наречие
+Předložka – Предлог
+Spojka – Союз
+Jednotné číslo – Единственное число
+Množné číslo – Мнодественное число
+Souhláska – Согласный
+Samohláska – Гласный
+Nadřazené slovo – Слово, обозначающее группу других слов 

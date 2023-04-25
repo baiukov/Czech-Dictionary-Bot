@@ -1,0 +1,71 @@
+Oblečení (N) –Одежда
+Sukně (F) – Юбка
+Tričko (N) –Футболка
+Tílko (N) –Майка
+Kabát (M) –Пальто
+Bunda (F) –Куртка
+Svetr (M) –Свитер
+Rolák (M) –Свитер с высоким воротом
+Mikina (F) –Толстовка, кофта
+Župan (M) – Халат
+Sako (N) –Пиджак
+Vesta (F) –Жилет
+Halenka (F) –Блузка
+Košile (F) –Рубашка
+Pyžamo (N) –Пижама
+Podprsenka (F) –Бюстгальтер
+Kalhoty – Брюки
+Džíny –Джинсы
+Kraťasy – Шорты
+Legíny – Легинсы
+Šaty – Платье
+Tepláky – Спортивные брюки, треники
+Plavky – Плавки
+Punčocháče – Колготки
+Kalhotky –Трусики
+Boxerky – Трусы
+Párové oblečení (N) –Парная одежда
+Ponožky (F) –Носки
+Rukavice (F) –Перчатки
+Doplňek (M), doplňky(mn.č.) –Аксессуар/ы
+Čepice (F) –Шапка
+Klobouk (M) – Шляпа
+Šála (F) –Шарф
+Šátek (M) –Платок, косынка
+Kravata (F) –Галстук
+Motýlek (M) – Галстук-бабочка
+Pásek (M) – Ремень, пояс
+Kabelka (F) –Сумка
+Brýle –Очки
+Hodinky– Часы
+Šperk (M) – Украшение (юв. изделие)
+Náušnice (F) –Серьги
+Náramek (M) – Браслет
+Prstýnek (M) – Кольцо
+Náhrdelník (M) – Колье
+Řetízek (M) – Цепочка
+Obuv (F) –Обувь
+Polobotky (F) –Ботинки
+Lodičky (F) –Лодочки
+Sandály (M) – Сандалеты, босоножки
+Žabky (F) –Сланцы, вьетнамки
+Balerínky (F) –Балетки
+Tenisky (F) –Кроссовки
+Kozačky (F) –Сапоги
+Holínky (F) –Резиновые сапоги
+Bačkory– Домашняя обувь
+Pantofle– Тапочки
+Materiál (M) – Материал
+Bavlna (F) –Хлопок
+Vlna (F) –Шерсть
+Džínovina (F) –Джинса
+Kůže (F) –Кожа
+Kožešina (F) –Мех
+Len (M) –Лен
+Samet (M) –Бархат
+Hedvábí (N) –Шелк
+Vzor (M) –Образец, узор
+Pruhovaný – Полосатый
+Kostkovaný – Клетчатый, в клетку
+Puntíkovaný – В горошек
+Květovaný – В цветочек
