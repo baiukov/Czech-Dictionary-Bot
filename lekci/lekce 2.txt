@@ -1,0 +1,89 @@
+Pán (M) – Господин
+Muž (M) – Мужчина
+Hrad (M) – Замок
+Stroj (M) – Машина
+Předseda (M) – Председатель
+Soudce (M) – Судья
+Žena (F) – Женщина
+Růže (F) – Роза
+Píseň (F) – Песня
+Kost (F) – Кость
+Město (N) – Город
+Moře (N) – Море
+Kuře (N) – Цыплёнок
+Stavení (N) – Здание
+Vlevo, nalevo – Влево, налево
+Vpravo, napravo – Вправо, направо
+Vpředu, vepředu – Впереди
+Vzadu – Сзади
+Dole – Внизу
+Nahoře – Наверху
+Naproti – Напротив
+Uprostřed – Посередине
+Vedle – Рядом
+Pod – Под
+Nad – Над
+Za – За
+Před – Перед
+V – В
+Na – На
+Kluk, chlapec, hoch (M) – Мальчик, Юноша
+Kamarád (M) – Друг
+Student (M) – Студент
+Žák (M) – Ученик
+Učitel (M) – Учитель
+Ředitel (M), ředitelka (F) – Директор
+Pokoj (M) – Комната
+Stůl (M) – Стол
+Sešit (M) – Тетрадь
+Slovník (M) – Словарь
+Fix (M) – Фломастер
+Počítač (M) – Компьютер
+CD přehrávač– CD-плеер
+Magnetofon (M) – Магнитофон
+Rozvrh (M) – Расписание
+Strop (M) – Потолок
+Roh (M) – Угол
+Lustr (M) – Люстра
+Obraz (M) – Картина
+Věšák (M) – Вешалка
+Vypínač (M) – Выключатель
+Škola (F) –Школа
+Stěna (F) –Стена
+Třída (F) – Класс
+Učebna (F) – Класс
+Místnost (F) – Помещение
+Tabule (F) – Доска
+Guma (F) – Резинка
+Holka (F) – Девушка
+Kamarádka (F) – Подруга
+Studentka (F) – Студентка
+Žákyně (F) – Ученица
+Učitelka (F) – Учительница
+Studijní oddělení (N) – Cтуденческий отдел
+Houba (F) – Губка
+Křída (F) – Мел
+Židle (F) – Стул
+Lavice (F) – Парта
+Skříň (F) – Шкаф
+Police (F) – Полка
+Mapa (F) – Карта
+Lampa (F) – Лампа
+Podlaha (F) – Пол
+Chodba (F) – Коридор
+Zásuvka, zástrčka (F) – Розетка
+Kniha (F) – Книга
+Učebnice (F) – Учебник
+Tužka (F) – Карандаш
+Propiska (F) – Ручка
+Nástěnka (F) – Доска объявлений
+Kancelář (F) – Офис
+Sborovna (F) – Учительская
+Ředitelna (F) – Кабинет директора
+Kolej (F) – Общежитие
+Adresa (F) – Адрес
+Budova (F) – Здание
+Jídelna (F) – Столовая
+Umývárna (F) – Уборная
+Přízemí (N) – Первый этаж
+Patro (N) – Этаж

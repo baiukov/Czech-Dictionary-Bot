@@ -1,0 +1,59 @@
+Dům (M) – Дом
+Hala (F) – Холл
+Předsíň (F) – Прихожая
+Obývací pokoj (obývák) (M) – Гостиная
+Kuchyň (kuchyně) (F) – Кухня
+Ložnice (F) – Спальня
+Koupelna (F) – Ванная комната
+Pracovna (F) – Рабочий кабинет
+Dětský pokoj (pokojíček) (M) – Детская комната
+Balkón (M) – Балкон
+Střecha (F) – Крыша
+Půda (F) – Чердак
+Sklep (M) – Подвал
+Garáž (F) – Гараж
+Terasa (F) – Терраса
+Zahrada (F) – Сад
+Vchod (M) – Вход
+Východ (M) – Выход
+Zvonek (M) – Звонок
+Zámek (M) – Замок
+Klíč (M) – Ключ
+Výtah (M) – Лифт
+Schránka (F) – Почтовый ящик
+Kuchyňská linka (F) – Кухонный гарнитур
+Spotřebič (M) – Техника (бытовая)
+Lednice (F) – Холодильник
+Myčka (F) – Посудомоечная машина
+Pračka (F) – Стиральная машина
+Trouba (F) – Духовка
+Sporák (M) – Плита
+Mrazák(M) – Морозильня камера
+Konvice (F) –Чайник
+Dřez (M) – Раковина
+Příbor (M) – Столовый прибор
+Nůž (M) – Нож
+Lžíce, lžička (F) – Ложка
+Vidlička (F) – Вилка
+Nádobí (N) – Посуда
+Talíř (M) – Тарелка
+Hrnek (M) – Кружка
+Hrnec (M) – Кастрюля
+Pekáč (M) – Противень
+Pánev (F) –Сковородка
+Mísa (F) –Блюдо (салатница, супница)
+Miska (F) –Блюдце
+Sklenice (F) – Стакан
+Ubrus (M) – Скатерть
+Ručník (M) – Полотенце
+Kartáček na zuby (M) – Зубная щётка
+Toaletní papír (M) – Туалетная бумага
+Sprcha (F), sprchový kout (M) – Душ
+Vana (F) – Ванна
+Zubní pasta (F) – Зубная паста
+Umývadlo (N) – Раковина
+Mýdlo (N) – Мыло
+Botník (M) – Тумба для обуви
+Komín (M) – Камин
+Panelový dům (M) – Панельный дом
+Mrakodrap (M) – Небоскрёб

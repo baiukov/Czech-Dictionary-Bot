@@ -1,0 +1,99 @@
+Veselý – Весёлый
+Smutný – Грустный
+Čistý – Чистый
+Špinavý – Грязный
+Velký – Большой
+Malý – Маленький
+Vysoký – Высокий
+Nízký – Низкий
+Plnoštíhlý, tlustý – Толстый
+Štíhlý, hubený – Худой
+Bohatý – Богатый
+Chudý – Бедный
+Drahý – Дорогой
+Levný – Дешёвый
+Mokrý – Мокрый
+Suchý – Сухой
+Hodný – Хороший
+Zlý – Злой
+Silný – Сильный
+Slabý – Слабый
+Starý – Старый
+Mladý – Молодой
+Starý, zastaralý – Старый, устаревший
+Nový, moderní – Новый, современный
+Krátký – Короткий
+Dlouhý – Длинный
+Chytrý, inteligentní – Умный
+Hloupý – Глупый
+Hezký – Красивый
+Ošklivý – Гадкий
+Studený – Холодный
+Teplý – Тёплый
+Horký – Горячий
+Sladký – Сладкий
+Slaný – Соленый
+Kyselý – Кислый
+Hořký – Горький
+Prázdný – Пустой
+Plný – Полный
+Zajímavý – Интересный
+Nudný – Скучный
+Barvy – Цвета
+Červená – Красный
+Zelená – Зелёный
+Modrá – Синий
+Bílá – Бeлый
+Černá – Чёрный
+Žlutá – Жёлтый
+Hnědá – Коричневый
+Oranžová – Оранжевый
+Růžová – Розовый
+Fialová – Фиолетовый
+Světlá – Светлый
+Tmavá – Тёмный
+Moderní – Современный
+Pracovní – Рабочий
+Zahraniční – Иностранный
+Sobotní – Субботний
+Dopolední – Утренний
+Odpolední – Послеобеденный
+První – Первый
+Psí – Собачий
+Lví – Львиный
+Gauč (M) – Диван
+Obrázek (M)– Рисунок, картинка
+Hřeben (M) – Расчёска
+Psací stůl (M) – Письменный стол
+Ručník (M) –Полотенце
+Stolek (M) –Тумбочка, столик
+Koberec (M) – Ковёр
+Noční stolek (M) – Тумбочка
+Budík (M) – Будильник
+Polštář (M) – Подушка
+Závěs (M) – Штора
+Plyšový medvěd, plyšák (M) – плюшевый мишка
+Kočárek (M)–Коляска
+Hračka (F) – Игрушка
+Panenka (F) – Кукла
+Televize (F) – Телевизор
+Komoda (F) –Комод
+Nástěnka (F) –Доска объявлений
+Police (F) –Полка
+Polička (F) –Полочка
+Křeslo (N) – Кресло
+Záclona (F) – Занавеска
+Žaluzie (F) – Жалюзи
+Sedačka (F) –Сиденье
+Květina (F) – Цветок
+Postel (F) – Кровать
+Peřina (F) –Одеяло
+Zeď (F) – Стенa
+Tiskárna (F) –Типография
+Fotografie (F) –Фотография
+Knihovna (F) – Библиотека
+Povlečení (N) – Постельное бельё
+Zrcadlo (N) – Зеркало
+Oblečení (N) –Одежда
+Autíčko (N) – Машинка
+Hodiny –Часы

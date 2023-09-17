@@ -1,0 +1,57 @@
+Obchod (M) – Магазин
+Nákupní košík (M) – Корзинка для покупок
+Nákupní vozík (M) – Тележка для покупок
+Sáček (M) – Пакет
+Výprodej (M) – Распродажа
+Prodavač (M) – Продавец
+Balicí papír (M) – Упаковочная бумага
+Dárek (M) – Подарок
+Regál (M) – Полка
+Lék (M) – Лекарствo
+Recept (M) – Рецепт
+Šampon (M) – Шампунь
+Sprchový gel (M) – Гель для душа
+Prášek na praní (M) – Стиральный порошок
+Deodorant (M) – Дезодорант
+Kapesník (M) – Носовой платок
+Zákusek (M) – Десерт
+Bonbón (M) –Конфета
+Peníze (M) – Деньги
+Peněženka (F) –Кошелек
+Igelitová taška (F) – Пластиковый пакет
+Sleva (F) – Скидка
+Samoobsluha (F) – Самообслуживание
+Prodavačka (F) –Продавщица
+Výloha (F) – Витрина
+Lékárna (F) –Аптека
+Drogerie (F) – Хозяйственный магазин
+Voňavka (F) – Духи
+Kosmetika (F) – Косметика
+Hygienické potřeby (F) – Гигиенические средства
+Žvýkačka (F) –Жевательная резинка
+Zboží (N) – Товар
+Slušet – Быть к лицу
+Přinést – Принести
+Ukázat – Показать
+Prohlédnout si – Просмотреть
+Tlačit – Давить, настаивать
+Chtít – Хотеть
+Platit – Платить
+Šetřit – Экономить
+Utrácet –Тратить
+Kupovat –Покупать
+Nakupovat – Покупать
+Vzít – Взять
+Zkoušet si – Пробовать
+Vybírat – Выбирать
+Kolik stojí? – Сколько стоит?
+Vezmu si … – Я возьму …
+Dám si … – Я буду ….
+Co si dáte? – Что будете заказывать?
+Máte vybráno? – Вы выбрали?
+Zkusím si to… – Я померяю это...
+Jakou máte velikost? – Какой у вас размер?
+Hotově… – Наличкой...
+Kartou… – Картой...
+Sluší ti to. Sluší vám to. – Тебе идёт. Вам идёт.
+Zvlášť. Dohromady. – Отдельно. Вместе.

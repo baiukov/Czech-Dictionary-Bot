@@ -1,0 +1,49 @@
+Ano – Да
+Ne – Нет
+Ahoj, Čau, Nazdar – Привет/Пока
+Dobrý den – Добрый день
+Dobré ráno – Доброе утро
+Dobrý večer – Добрый вечер
+Dobrou noc – Спокойной ночи
+Jak se máš? – Как дела?
+Jak se máte? – Как у вас дела?
+Výborně – Замечательно
+Skvěle – Отлично
+Dobře – Хорошо
+Jde to – Неплохо
+Nic moc – Ничего особенного
+Špatně – Плохо
+Hrozně – Ужасно
+Odkud jsi? – Ты откуда?
+Odkud jste? – Вы oткуда?
+Cizinec (M) – Иностранец
+Cizinka (F) – Иностранка
+Čech (M) – Чех
+Češka (F) – Чешка
+Rus (M) – Русский
+Ruska (F) – Русская
+Kazach (M) – Казах
+Kazaška (F) – Казашка
+Ukrajinec (M) – Украинец
+Ukrajinka (F) – Украинка
+Kolik je ti let? – Cколько тебе лет?
+Kolik je vám let? – Cколько вам лет?
+Je mi let. – Мне лет.
+Jak se jmenuješ? – Как тебя зовут?
+Jak se jmenujete? – Как вас зовут?
+Jmenuji (u) se – Меня зовут
+Děkuju (i) – Спасибо
+Prosím – Пожалуйста
+Není zač – Не за что
+Těší mě. – Приятно познакомиться
+Promiň, Promiňte – Извини, Извините
+Sdovolením! – Разрешите! Позвольте!
+To nic. Nic se nestalo. – Это ничего. Все в порядке.
+Tečka – Точка
+Čárka – Запятая
+Háček – Гачек
+Kroužek – Колечко
+Otazník – Вопросительный знак
+Vykřičník – Восклицательный знак
+Otázka – Вопрос
+Odpověď – Ответ
